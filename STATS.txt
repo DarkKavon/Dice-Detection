@@ -1,0 +1,15 @@
+#zbiór 1: 1 - 11 <- łatwe tło
+#zbior 2: 12 - 23 <- średnie tło
+#zbior 3: 24 - 31 <- trudne tło
+
+#dziala: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 19 20 21 28 30
+#lekko nie dizala: 18 (niedomknięte kontury -> mocne światło), 22 (cieżko powiedzieć czemu -> potencjalnie do naprawy), 
+#                  23  (taki sam błąd co w 22)
+#                  25 (wielkość kostek -> cienie), 26 (to samo co 25), 
+#                  27 (kostka widmo -> za jadne zdjęcie -> pomysł jak w 24), 
+#                  29 (praktycznie sie nie da naprawic -> dodatkowe oczko na 1 ma dokłądnie takie wymiary i aspekt jak powinno
+#                      -> potencjalnie takie samo rozwiazanie jak 24)
+#totalny burdel: 24 (niedomkniete kontury -> potencjalnie może działać jak się bardzo zmniejszy jasność albo da adaptiveTreshold
+#                    -> pomysł na naprawe: dostosowywanie jasności względem średneij jasności całego zdjęcia)
+#                31 (wątpie że da się naprawić XD)
+#potencjalnie do poprawy: 22 23 24 25 26
